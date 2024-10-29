@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FoxSlcX7\\source\\repos\\PracticeWork1\\OAiP-and-RKiS\\PracticeWork_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52D4DEE8-D5AD-41FE-BEEF-C2EC98D585C0}|PracticeWork1\\PracticeWork1.vcxproj|C:\\Users\\FoxSlcX7\\source\\repos\\PracticeWork1\\OAiP-and-RKiS\\PracticeWork_1\\PracticeWork1\\PracticeWork1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52D4DEE8-D5AD-41FE-BEEF-C2EC98D585C0}|PracticeWork1\\PracticeWork1.vcxproj|solutionrelative:PracticeWork1\\PracticeWork1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeWork1.cpp",
+              "DocumentMoniker": "C:\\Users\\FoxSlcX7\\source\\repos\\PracticeWork1\\OAiP-and-RKiS\\PracticeWork_1\\PracticeWork1\\PracticeWork1.cpp",
+              "RelativeDocumentMoniker": "PracticeWork1\\PracticeWork1.cpp",
+              "ToolTip": "C:\\Users\\FoxSlcX7\\source\\repos\\PracticeWork1\\OAiP-and-RKiS\\PracticeWork_1\\PracticeWork1\\PracticeWork1.cpp",
+              "RelativeToolTip": "PracticeWork1\\PracticeWork1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T10:59:22.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
